@@ -247,12 +247,12 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin: 10px;
   color: #fff;
-  background: #005aaa;
+  background: #8cc13b;
 }
 
 #intro .btn-get-started:hover {
   background: #fff;
-  color: #005aaa;
+  color: #8cc13b;
 }
 
 /*--------------------------------------------------------------
@@ -1277,7 +1277,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #005aaa;
+  background: #8cc13b;
   border: 0;
   padding: 10px 30px;
   color: #fff;
